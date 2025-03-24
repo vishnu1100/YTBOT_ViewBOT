@@ -3,6 +3,7 @@
     "axios": "^1.8.4",
     "https-proxy-agent": "^7.0.6",
     "proxy-chain": "^2.5.7",
+    "puppeteer": "^24.4.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "socks-proxy-agent": "^8.0.5"

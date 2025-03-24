@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 // Configuration
-const TARGET_VIEWS = 10; // Number of times to view the video
+const TARGET_VIEWS = 1000000; // Number of times to view the video
 const VIDEO_URL = "https://www.youtube.com/watch?v=yBMImjkBHqc";
 
 // Helper function to simulate human delay with randomness
