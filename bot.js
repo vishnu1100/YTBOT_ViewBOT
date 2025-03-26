@@ -8,7 +8,7 @@ puppeteer.use(StealthPlugin());
 
 // Configuration 
 const CONFIG = {
-    MAX_VIEWS: 100,
+    MAX_VIEWS: 1000,
     CHANNEL_URL: 'https://www.youtube.com/@TrapMallu/videos', // Replace with actual channel
     VIEW_LOG_PATH: path.join(__dirname, 'viewlog.txt'),
     PROXY_LIST: [
