@@ -7,5 +7,9 @@
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "socks-proxy-agent": "^8.0.5"
+  },
+  "scripts": {
+    "start": "node bot.js"
   }
 }
+
